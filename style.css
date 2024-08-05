@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 body{
   display: flex;
@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #f2f2f2;
+  background-image: linear-gradient(to top, #cfc0fd, #5bde60);
 }
 .container{
   width: 450px;
@@ -95,6 +95,7 @@ body{
 .buttons .check-word:hover{
   background: #2c52ed;
 }
+/*
 @media screen and (max-width: 470px) {
   .container{
     width: 100%;

@@ -37,7 +37,7 @@ const words = [
   },
   {
     word: "ours",
-    hint: "But this love is ours"
+    hint: "But this love is "
   },
   {
     word: "Superman",
@@ -102,6 +102,106 @@ const words = [
   {
     word: "daylight",
     hint: "Back and forth from new york."
+  },
+  {
+    word: "the 1",
+    hint: "For never leaving well enough alone"
+  },
+  {
+    word: "cardigan",
+    hint: "Your heartbeat on the High Line"
+  },
+  {
+    word: "exile",
+    hint: "Those eyes add insult to injury"
+  },
+  {
+    word: "mirrorball",
+    hint: "And when I break it's in a million pieces"
+  },
+  {
+    word: "seven",
+    hint: "With Pennsylvania under me"
+  },
+  {
+    word: "august",
+    hint: "But I can see us lost in the memory"
+  },
+  {
+    word: "epiphany",
+    hint: "Only 20 minutes to sleep"
+  },
+  {
+    word: "betty",
+    hint: "Or lead me to the garden?"
+  },
+  {
+    word: "peace",
+    hint: "I never had the courage of my convictions"
+  },
+  {
+    word: "hoax",
+    hint: "My smoking gun"
+  },
+  {
+    word: "willow",
+    hint: "And there was one prize I'd cheat to win"
+  },
+  {
+    word: "evermore",
+    hint: "Ive been down since July"
+  },
+  {
+    word: "happiness",
+    hint: "Honey, when I'm above the trees"
+  },
+  {
+    word: "dorothea",
+    hint: "Do you ever stop and think about me?"
+  },
+  {
+    word: "ivy",
+    hint: "My pain fits in the palm of your freezing hand"
+  },
+  {
+    word: "marjorie",
+    hint: "What died didn't stay dead"
+  },
+  {
+    word: "closure",
+    hint: "Don't treat me like some situation that needs to be handled"
+  },
+  {
+    word: "maroon",
+    hint: "In New York, no shoes"
+  },
+  {
+    word: "Question",
+    hint: "But 15 seconds later they were clapping too?"
+  },
+  {
+    word: "bejeweled",
+    hint: "Familiarity breeds contempt"
+  },
+  {
+    word: "labyrinth",
+    hint: "I thought the plane was going down"
+  },
+  {
+    word: "karma",
+    hint: "My pennies made your crown"
+  },
+  {
+    word: "paris",
+    hint: "Some wannabe Z-lister"
+  },
+  {
+    word: "glitch",
+    hint: "Nights are so starry, blood moonlit"
+  },
+  {
+    word: "peter",
+    hint: "My lost fearless leader"
   },
   
 ]
